@@ -6,14 +6,21 @@
 
 ### Web-Based Student Admission Information System
 
-<p>
-  <a href="https://ppdb.infinityfree.io/">
-    <img src="https://img.shields.io/badge/Live%20Demo-PPDB%20Online-success?style=for-the-badge" alt="Live Demo">
-  </a>
-  <img src="https://img.shields.io/badge/CodeIgniter%203-orange?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 3">
-  <img src="https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<p align="center">
+
+<a href="https://ppdb.infinityfree.io/">
+  <img src="https://img.shields.io/badge/Live%20Demo-PPDB%20Online-success?style=for-the-badge" alt="Live Demo">
+</a>
+
+<img src="https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 3">
+
+<img src="https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
 </p>
+
+
 
 </div>
 

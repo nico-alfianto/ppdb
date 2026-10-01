@@ -6,38 +6,30 @@
 
 ### Web-Based Student Admission Information System
 
-<p align="center">
-
-<a href="https://ppdb.infinityfree.io/">
-  <img src="https://img.shields.io/badge/Live%20Demo-PPDB%20Online-success?style=for-the-badge" alt="Live Demo">
-</a>
-
-<img src="https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 3">
-
-<img src="https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
+<p>
+  <a href="https://ppdb.infinityfree.io/">
+    <img src="https://img.shields.io/badge/Live%20Demo-PPDB%20Online-success?style=for-the-badge" alt="Live Demo">
+  </a>
+  <img src="https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 3">
+  <img src="https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
-
-
 
 </div>
 
+---
+
+## About the Project
+
+**PPDB Online SMK Al-Ghazaly Bogor** is a web-based student admission information system designed to support the new student registration process.
+
+This project was developed as part of the **Research Methodology** course. The project focuses on analyzing the existing student admission process and designing a more informative, structured, responsive, and user-friendly web-based registration system.
+
+The analysis is based on secondary data and indirect observation of publicly available registration interfaces. The research does not involve a direct visit to the school and focuses on the system interface, registration flow, information presentation, and user experience.
 
 ---
 
-## 📌 About the Project
-
-**PPDB Online SMK Al-Ghazaly Bogor** is a web-based student admission system designed to support the process of registering new students online.
-
-This project was developed as part of the **Research Methodology** course. The project focuses on analyzing the existing student admission process and designing an improved web-based registration system that is more informative, structured, responsive, and user-friendly.
-
-The analysis is based on secondary data and indirect observation of publicly available web forms and interfaces. The project does not involve direct visits to the school.
-
----
-
-## 🎓 Project Information
+## Project Information
 
 | Information              | Details                            |
 | ------------------------ | ---------------------------------- |
@@ -54,7 +46,17 @@ The analysis is based on secondary data and indirect observation of publicly ava
 
 ---
 
-## 👥 Project Team
+## Research Report
+
+The complete research report and project documentation are available in the following document:
+
+**[View Research Report](https://docs.google.com/document/d/1JFp2pfLk1bVE-RBw69EbyVU2DlTajkmr/edit?usp=sharing)**
+
+The document contains the research discussion, system analysis, identified problems, proposed solutions, and other project-related materials.
+
+---
+
+## Project Team
 
 ### Team Leader
 
@@ -69,72 +71,72 @@ The analysis is based on secondary data and indirect observation of publicly ava
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The project aims to design a student admission system that can:
 
 * Provide clearer information about the school.
-* Present available study programs and admission information.
-* Simplify the student registration process.
-* Provide a clear registration flow for prospective students.
+* Present information about study programs and admission procedures.
+* Simplify the online student registration process.
+* Provide a clear and understandable registration flow.
 * Improve the overall user experience.
-* Provide confirmation or feedback after registration.
-* Support responsive access on different devices.
+* Provide confirmation and feedback after registration.
+* Support responsive access across different devices.
 
 ---
 
-## ⚠️ Problems Identified
+## Problems Identified
 
-Several problems were identified in the existing student admission process:
+Based on the analysis, several problems were identified in the existing student admission process:
 
 1. The registration interface is still less attractive and informative.
 2. Information about the school, study programs, and registration procedures is not presented comprehensively.
 3. The registration flow is not clearly explained to prospective students.
 4. There is no clear notification or confirmation after the registration form is submitted.
-5. The interface is not fully designed based on responsive and user-friendly design principles.
+5. The interface has not been fully designed based on responsive and user-friendly design principles.
 
 ---
 
-## 💡 Proposed Solutions
+## Proposed Solutions
 
-To address the identified problems, the proposed system includes:
+The proposed system addresses these problems through the following improvements:
 
-* A more informative school profile page.
-* Information about available study programs and facilities.
-* A clear and structured online registration form.
-* A more understandable registration flow.
-* A registration confirmation page.
-* Responsive and user-friendly interface design.
-* An interactive prototype developed using the **Prototype Method**.
+1. Provide a more informative school profile.
+2. Present study programs, facilities, and admission information clearly.
+3. Provide a structured and easy-to-understand registration form.
+4. Create a clearer registration flow for prospective students.
+5. Provide a confirmation page after successful registration.
+6. Apply responsive and user-friendly interface design.
+7. Develop the system as an interactive prototype using the **Prototype Method**.
 
 ---
 
-## ✨ Main Features
+## Main Features
 
-### 👨‍🎓 Student / Applicant
+### Student / Applicant
 
 * Online student registration.
 * Student registration form.
-* Submission of applicant information.
+* Applicant information submission.
 * Registration information.
 * Registration confirmation.
 * Access to student-related information.
 
-### 👨‍💼 Administrator
+### Administrator
 
 * Administrator login.
-* Management of student registration data.
+* Student registration data management.
 * Access to submitted applicant information.
-* Administrative monitoring of registration data.
+* Registration data monitoring.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-| Technology        | Usage                   |
+| Technology        | Purpose                 |
 | ----------------- | ----------------------- |
 | **PHP**           | Backend programming     |
-| **CodeIgniter 3** | PHP Framework           |
+| **CodeIgniter 3** | PHP framework           |
 | **MySQL**         | Database management     |
 | **HTML5**         | Website structure       |
 | **CSS3**          | Website styling         |
@@ -144,7 +146,7 @@ To address the identified problems, the proposed system includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ppdb/
@@ -177,17 +179,17 @@ ppdb/
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-You can access the deployed PPDB system through the following link:
+The deployed system can be accessed through the following link:
 
 **https://ppdb.infinityfree.io/**
 
 ---
 
-## 🔐 Demo Account
+## Demo Accounts
 
-The following accounts can be used to test the system.
+The following accounts are available for testing the system.
 
 ### Administrator
 
@@ -213,11 +215,11 @@ Username : 2025-1747590183
 Password : 123
 ```
 
-> **Note:** These credentials are provided for demonstration and testing purposes.
+> **Note:** These accounts are provided for demonstration and testing purposes.
 
 ---
 
-## 💻 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -237,7 +239,7 @@ C:/xampp/htdocs/ppdb
 
 ### 3. Create the Database
 
-Create a MySQL database, then import:
+Create a MySQL database and import the following SQL file:
 
 ```text
 db/ppdbonline.sql
@@ -263,7 +265,7 @@ $db['default'] = array(
 );
 ```
 
-### 5. Configure Base URL
+### 5. Configure the Base URL
 
 Open:
 
@@ -279,7 +281,9 @@ $config['base_url'] = 'http://localhost/ppdb/';
 
 ### 6. Run the Application
 
-Start Apache and MySQL through XAMPP, then open:
+Start **Apache** and **MySQL** through XAMPP.
+
+Then open the application in your browser:
 
 ```text
 http://localhost/ppdb/
@@ -287,11 +291,11 @@ http://localhost/ppdb/
 
 ---
 
-## 🔄 Development Method
+## Development Method
 
-This project uses the **Prototype Method**.
+This project uses the **Prototype Method** to develop and refine the proposed student admission system.
 
-The development process consists of several stages:
+The development process consists of the following stages:
 
 ```text
 Requirement Identification
@@ -307,40 +311,40 @@ System Improvement
 Final Prototype
 ```
 
-The prototype approach allows the system design and user interface to be evaluated and improved based on identified user needs.
+The prototype approach allows the proposed interface and registration flow to be evaluated and improved according to the identified requirements.
 
 ---
 
-## 📊 Expected Benefits
+## Expected Benefits
 
-The proposed system is expected to provide:
+The proposed system is expected to provide the following benefits:
 
 * Easier access to student admission information.
-* A clearer registration process.
+* A clearer and more structured registration process.
 * Better presentation of school and study program information.
 * Improved user experience for prospective students.
-* A more organized student admission process.
-* Responsive access through computers and mobile devices.
+* More organized student admission data.
+* Responsive access through desktop and mobile devices.
 
 ---
 
-## 📚 Research Scope
+## Research Scope
 
-The research focuses on:
+The research focuses on the following aspects:
 
 * Student admission information.
-* Registration flow.
+* Online registration flow.
 * Website interface.
 * User experience.
 * Information presentation.
 * Online registration forms.
 * Prototype design.
 
-The project is primarily focused on **system analysis and prototype design** and does not focus on implementing a complete production-level database system.
+The project focuses primarily on **system analysis and prototype design** rather than developing a complete production-level admission system.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nico Alfianto**
 
@@ -349,9 +353,9 @@ Universitas Bina Sarana Informatika
 
 ---
 
-## 📄 License
+## License
 
-This project was created for academic purposes as part of the **Research Methodology** course.
+This project was developed for academic purposes as part of the **Research Methodology** course.
 
 ---
 
